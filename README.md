@@ -14,7 +14,7 @@ This is a Google Colab-based document chatbot powered by **Groq’s LLaMA 3 mode
 
 ```bash
 Groq_PDF_Chatbot/
-├── Groq_PDF_Chatbot.ipynb         # Full working Colab notebook
+├── NovelOffice.ipynb              # Full working Colab notebook
 ├── README.md                      # This file
 └── docs/
     └── FluidMechanics.pdf         # Sample document used for testing
