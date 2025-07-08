@@ -22,16 +22,16 @@ Groq_PDF_Chatbot/
 ----
 
 ## 🛠️ Tools & Libraries Used
-
-Tool/Library	         Purpose
-LangChain	         Orchestrating LLM calls and retrieval
-Groq API	         Uses llama3-70b-8192 for fast inference
-Gradio	                 Web UI inside Colab
-HuggingFace Embeddings	 Converts text into embeddings for vector search
-ChromaDB	         Stores and retrieves vectorized PDF content
-pdf2image	         Converts source PDF pages into images
-PyPDF2	                 Extracts PDF metadata (title, author)
-Google Colab	         Cloud-based notebook runtime
+| Tool Library            | Purpose                                        | 
+|-------------------------|------------------------------------------------|
+| Lang Chain              | Load a document for processing                 |
+| Groq AI                 | Query the LLM about the document               |
+| Gradio                  | Save chat history                              |
+| HuggingFace Embeddings  |Converts text into embeddings for vector search |
+| ChromaDB                |Stores and retrieves vectorized PDF content     |
+| pdf2image               |Converts xource PDF pages into images           |
+| PyPDf2                  |Extracts PDF metadata (title, author)           |
+| Google Colab            |Cloud-based notebook runtime                    |
 
 ----
 
