@@ -41,6 +41,8 @@ Paste this into the first cell of the Colab notebook to install all dependencies
 !pip install gradio langchain langchain-community langchain-groq chromadb pdf2image PyPDF2 sentence-transformers
 !apt install poppler-utils -y
 
+----
+
 ##(NOTE: Might not be needed since ipynb file already has all code available just run from start and the last code cell being the main interface)
 
 ----
