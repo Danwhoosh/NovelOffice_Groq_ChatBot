@@ -39,6 +39,7 @@ Groq_PDF_Chatbot/
 Paste this into the first cell of the Colab notebook to install all dependencies:
 
 !pip install gradio langchain langchain-community langchain-groq chromadb pdf2image PyPDF2 sentence-transformers
+
 !apt install poppler-utils -y
 
 ----
