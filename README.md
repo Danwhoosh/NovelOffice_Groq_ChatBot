@@ -44,7 +44,7 @@ Paste this into the first cell of the Colab notebook to install all dependencies
 
 ----
 
-##(NOTE: Might not be needed since ipynb file already has all code available just run from start and the last code cell being the main interface)
+## (NOTE: Might not be needed since ipynb file already has all code available just run from start and the last code cell being the main interface)
 
 ----
 
