@@ -69,14 +69,23 @@ Paste this into the first cell of the Colab notebook to install all dependencies
 ## ✨ Features
 
 ✅ Upload any PDF
+
 ✅ Automatically extract title and author
+
 ✅ Ask natural language questions about the PDF
+
 ✅ "Explain Like I'm 5" mode toggle
+
 ✅ View source diagrams extracted from cited PDF pages
+
 ✅ Chat history display
+
 ✅ Copy-to-clipboard for answers
+
 ✅ Clear chat history button
+
 ✅ (Optional) Export entire chat session
+
 ✅ Google Colab–friendly interface
 
 ----
@@ -89,8 +98,11 @@ The folder Documents/FluidMechanics.pdf contains a sample file. You can replace 
 
 ## 🧪 Example Use Cases
 Reading engineering textbooks and viewing formulas/figures
+
 Legal document review with AI Q&A
+
 Research paper summarization + citation image preview
+
 ELI5 explanations for complex topics
 
 ----
@@ -98,7 +110,9 @@ ELI5 explanations for complex topics
 ## 📌 Notes
 
 Groq API key is required. You can get yours at https://console.groq.com
+
 Model used: llama3-70b-8192 (you can change this in the notebook)
+
 PDF metadata relies on what's embedded in the file; not all PDFs contain this info.
 
 ----
@@ -106,8 +120,11 @@ PDF metadata relies on what's embedded in the file; not all PDFs contain this in
 ### Built by Dhanush Rajashekar using:
 
 OpenAI's LangChain
+
 Groq LLMs
+
 Gradio
+
 Google Colab
 
 
