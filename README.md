@@ -17,7 +17,7 @@ Groq_PDF_Chatbot/
 ├── Groq_PDF_Chatbot.ipynb         # Full working Colab notebook
 ├── README.md                      # This file
 └── docs/
-    └── Fluid_Mechanics_Sample.pdf # Sample document used for testing
+    └── FluidMechanics.pdf         # Sample document used for testing
 ```
 ----
 
